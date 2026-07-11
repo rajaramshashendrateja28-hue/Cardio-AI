@@ -60,8 +60,7 @@ For detailed technical and clinical information, please refer to the following m
 ```text
 .
 ├── api/                # Production FastAPI gateway and middleware
-├── app/                # Clinical Streamlit dashboard and UI logic
-│   └── assets/         # Project logos and application screenshots
+├── png                 # Project logos and application screenshots
 ├── data/               # Clinical datasets (Raw, Processed, External)
 ├── docs/               # Full documentation suite (Architecture, User Guide, Paper)
 ├── models/             # Optimized model artifacts and clinical metadata
