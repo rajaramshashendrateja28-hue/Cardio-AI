@@ -46,12 +46,12 @@ For detailed technical and clinical information, please refer to the following m
 | Module | Description |
 | :--- | :--- |
 | **[System Architecture](ARCHITECTURE.md)** | Deep dive into pipelines, safety engines, and optimization layers. |
-| **[Scientific Paper](docs/PAPER.md)** | Full methodology, experimental results, and mathematical foundations. |
-| **[Production API Guide](docs/API_GUIDE.md)** | Full FastAPI reference, logging, and auditability features. |
-| **[Clinical User Guide](docs/USER_GUIDE.md)** | Walkthrough of the dashboard, radar charts, and PDF reports. |
-| **[Development Manual](docs/DEVELOPMENT.md)** | Setup instructions, training pipelines, and testing strategy. |
-| **[Clinical Data Dictionary](docs/DATA_DICTIONARY.md)** | Explanation of the 13 clinical features and medical safety thresholds. |
-| **[Streamlit Deployment](docs/DEPLOYMENT_GUIDE.md)** | Step-by-step guide to hosting the dashboard on Streamlit Cloud. |
+| **[Scientific Paper](PAPER.md)** | Full methodology, experimental results, and mathematical foundations. |
+| **[Production API Guide](API_GUIDE.md)** | Full FastAPI reference, logging, and auditability features. |
+| **[Clinical User Guide](USER_GUIDE.md)** | Walkthrough of the dashboard, radar charts, and PDF reports. |
+| **[Development Manual](DEVELOPMENT.md)** | Setup instructions, training pipelines, and testing strategy. |
+| **[Clinical Data Dictionary](DATA_DICTIONARY.md)** | Explanation of the 13 clinical features and medical safety thresholds. |
+| **[Streamlit Deployment](DEPLOYMENT_GUIDE.md)** | Step-by-step guide to hosting the dashboard on Streamlit Cloud. |
 
 ---
 
