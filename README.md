@@ -45,7 +45,7 @@ For detailed technical and clinical information, please refer to the following m
 
 | Module | Description |
 | :--- | :--- |
-| **[System Architecture](docs/ARCHITECTURE.md)** | Deep dive into pipelines, safety engines, and optimization layers. |
+| **[System Architecture](ARCHITECTURE.md)** | Deep dive into pipelines, safety engines, and optimization layers. |
 | **[Scientific Paper](docs/PAPER.md)** | Full methodology, experimental results, and mathematical foundations. |
 | **[Production API Guide](docs/API_GUIDE.md)** | Full FastAPI reference, logging, and auditability features. |
 | **[Clinical User Guide](docs/USER_GUIDE.md)** | Walkthrough of the dashboard, radar charts, and PDF reports. |
