@@ -2,7 +2,7 @@
 
 ### Production Interface (FastAPI)
 
-![FastAPI Interactive Documentation](../app/assets/App_Screenshots/API_Docs.png)
+![FastAPI Interactive Documentation](API_Docs.png)
 
 CardioSense AI exposes a production-grade FastAPI REST interface for seamless integration with Electronic Health Record (EHR) and Hospital Management Systems.
 
