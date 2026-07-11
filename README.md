@@ -143,19 +143,13 @@ uvicorn api.main:app
 *Disclaimer: CardioSense AI is designed exclusively for decision assistance. It is not a replacement for independent clinical judgment by a licensed medical professional.*
 
 <p align="center">
-  <a href="https://khanz9664.github.io/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-255E00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://github.com/rajaramshashendrateja28-hue">
+   <a href="https://github.com/rajaramshashendrateja28-hue">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/shahid-ul-islam-13650998/">
+  <a href="www.linkedin.com/in/shashendra-teja-012756332">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.kaggle.com/shaddy9664">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle">
-  </a>
-  <a href="mailto:shahid9664@gmail.com">
+  <a href="rajaramshashendrateja28@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
