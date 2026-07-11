@@ -6,12 +6,13 @@
 
 ##  System Overview
 
-<p align="center">
-  <img src="app/assets/App_Screenshots/1.png" width="200"/>
-  <img src="app/assets/App_Screenshots/2.png" width="200"/>
-  <img src="app/assets/App_Screenshots/6.png" width="200"/>
-  <img src="app/assets/App_Screenshots/10.png" width="200"/>
-</p>
+![Dashboard 1](1.png)
+
+![Dashboard 2](2.png)
+
+![Dashboard 3](3.png)
+
+![Dashboard 4](4.png)
 
 ---
 
