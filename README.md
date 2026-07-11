@@ -146,7 +146,7 @@ uvicorn api.main:app
   <a href="https://khanz9664.github.io/portfolio">
     <img src="https://img.shields.io/badge/Portfolio-255E00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://github.com/khanz9664">
+  <a href="https://github.com/rajaramshashendrateja28-hue">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/shahid-ul-islam-13650998/">
