@@ -1,9 +1,7 @@
 # CardioSense AI: An Integrated eXplainable Clinical Decision Support System (X-CDSS) for Precision Cardiovascular Risk Assessment
 
-**Authors**: Shahid Ul Islam
-**Date**: April 2026  
-**Clinical Validation**: v2.4.0 (Enhanced Stability)  
-**Keywords**: Clinical Decision Support, Explainable AI (XAI), XGBoost, SHAP, LIME, Risk Optimization
+**Authors**: Shashendra Teja
+
 
 ---
 
@@ -292,7 +290,4 @@ CardioSense AI represents a significant step toward **Trustable AI** in cardiolo
  
  ---
  
- **Contact & Audit**:  
-Project: CardioSense AI (v2.4.0)  
-Metadata Hash: `[Audit-Linked-SHA256]`  
-[Clinical Dashboard](https://khanz9664.github.io/portfolio)
+
