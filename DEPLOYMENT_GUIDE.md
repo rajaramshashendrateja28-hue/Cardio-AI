@@ -37,9 +37,9 @@ git push origin main
 
 ### Step 3: Deploy New App
 1.  Click **"New app"**.
-2.  Select your **Repository** (`khanz9664/CardioSense-AI`).
+2.  Select your **Repository** .
 3.  Select the **Branch** (`main`).
-4.  **Main file path**: Set this to **`app/main.py`**.
+4.  **Main file path**: Set this to **`main.py`**.
 5.  Click **"Deploy!"**.
 
 ---
