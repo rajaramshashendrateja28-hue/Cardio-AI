@@ -17,7 +17,7 @@ def simulate_clinical_traffic(n=50, drift=False):
     logger = MonitoringLogger()
     
     # Load training reference specifically for columns
-    ref_path = "/home/shahid/Desktop/new datasets/heart disease/CardioSense-AI/models/X_reference.joblib"
+    ref_path = "/home/Desktop/new datasets/heart disease/CardioSense-AI/models/X_reference.joblib"
     if not os.path.exists(ref_path):
         print(f"Error: Reference data not found at {ref_path}. Run training first.")
         return
@@ -69,7 +69,7 @@ def simulate_clinical_traffic(n=50, drift=False):
 
 if __name__ == "__main__":
     # Create monitoring dir if missing
-    os.makedirs("/home/shahid/Desktop/new datasets/heart disease/CardioSense-AI/data/monitoring", exist_ok=True)
+    os.makedirs("/home/Desktop/new datasets/heart disease/CardioSense-AI/data/monitoring", exist_ok=True)
     
     # 1. Simulate stable traffic
     simulate_clinical_traffic(n=60, drift=False)
@@ -79,9 +79,9 @@ if __name__ == "__main__":
     # 3. Trigger manual analysis
     print("\nRunning Monitoring Engine analysis...")
     engine = MonitoringEngine(
-        reference_path="/home/shahid/Desktop/new datasets/heart disease/CardioSense-AI/models/X_reference.joblib",
-        metadata_path="/home/shahid/Desktop/new datasets/heart disease/CardioSense-AI/models/model_metadata.json",
-        db_path="/home/shahid/Desktop/new datasets/heart disease/CardioSense-AI/data/monitoring/inference_history.db"
+        reference_path="/home/Desktop/new datasets/heart disease/CardioSense-AI/models/X_reference.joblib",
+        metadata_path="/home/Desktop/new datasets/heart disease/CardioSense-AI/models/model_metadata.json",
+        db_path="/home/Desktop/new datasets/heart disease/CardioSense-AI/data/monitoring/inference_history.db"
     )
     
     drift_stats = engine.run_drift_analysis(window_size=100)
